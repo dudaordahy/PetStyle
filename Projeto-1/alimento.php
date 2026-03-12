@@ -1,5 +1,6 @@
 <?php 
-  include_once '../conexao.php';
+  include_once '../includes/conexao.php';
+  include_once '../includes/logado.php';
 ?>
 
 <!DOCTYPE html>

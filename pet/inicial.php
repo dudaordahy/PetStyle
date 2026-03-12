@@ -40,42 +40,42 @@
 <!-- ================= BOLINHAS ================= -->
 <section class="categories-icons">
 
-    <a href="#" class="icon-box">
+    <a href="../Projeto-1/alimento.php" class="icon-box">
         <div class="icon-circle">
             <i class="fas fa-bone"></i>
         </div>
         <span>Rações</span>
     </a>
 
-    <a href="#" class="icon-box">
+    <a href="../Projeto-1/alimento.php" class="icon-box">
         <div class="icon-circle">
             <i class="fas fa-bed"></i>
         </div>
         <span>Conforto</span>
     </a>
 
-    <a href="#" class="icon-box">
+    <a href="../Projeto-1/alimento.php" class="icon-box">
         <div class="icon-circle">
             <i class="fas fa-shower"></i>
         </div>
         <span>Higiene</span>
     </a>
 
-    <a href="#" class="icon-box">
+    <a href="../Projeto-1/alimento.php" class="icon-box">
         <div class="icon-circle">
             <i class="fas fa-baseball-ball"></i>
         </div>
         <span>Brinquedos</span>
     </a>
 
-    <a href="#" class="icon-box">
+    <a href="../Projeto-1/alimento.php" class="icon-box">
         <div class="icon-circle">
             <i class="fas fa-dog"></i>
         </div>
         <span>Passeio</span>
     </a>
      
-    <a href="#" class="icon-box">
+    <a href="../Projeto-1/alimento.php" class="icon-box">
         <div class="icon-circle">
             <i class="fas fa-tshirt"></i>
         </div>
