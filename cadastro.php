@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="cadastro.css">
-    <title>CADASTRO</title>
+    <title>Pet Style</title>
     <header>
       <img id="logo" src="./img/Logopet.png">
     </header>
@@ -22,6 +22,7 @@
             <input type="tel" placeholder="Número de telefone" name = "numeroTelefone"> 
             <input type="password" placeholder="Senha" name = "senha">
             <button type="submit">Cadastrar</button>
+            <a href="login.php">fazer login</a>
         </form>
     </div>
 </body>

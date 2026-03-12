@@ -1,4 +1,7 @@
 <?php 
+
+session_start();
+
 // config de acesso
 $server = 'localhost';
 $usuario = 'root';

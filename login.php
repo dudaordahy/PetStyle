@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="login.css">
-    <title>LOGIN</title>
+    <title>Pet Style</title>
     <header>
       <img id="logo" src="./img/Logopet.png" alt="">
     </header>

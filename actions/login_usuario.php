@@ -15,7 +15,7 @@ $resultado = mysqli_query($conexao, $sql);
 if($resultado->num_rows > 0){
     // validacao do usuario - cria a sessao
     $_SESSION['Usuario'] =  mysqli_fetch_assoc($resultado);
-    header('Location: ../index.php');
+    header('Location: ../pet/inicial.php');
     print_r($_SESSION);
     exit('Usuario cadastrado');
 }else{
