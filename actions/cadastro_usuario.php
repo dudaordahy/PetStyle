@@ -10,7 +10,6 @@ $senha = $_POST['senha'];
 
 $sql = "INSERT INTO clientes (nome, raca, numeroTelefone, senha) VALUES ('{$nome_cao}', '{$raca}', '{$numero}', '{$senha}')";
 
-
 // executar no banco
 mysqli_query($conexao,$sql);
 

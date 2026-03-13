@@ -17,7 +17,6 @@ if($resultado->num_rows > 0){
     $_SESSION['Usuario'] =  mysqli_fetch_assoc($resultado);
     header('Location: ../pet/inicial.php');
     print_r($_SESSION);
-    exit('Usuario cadastrado');
 }else{
     header('Location: ../cadastro.php?msg=semusuario');
 }
